@@ -5,7 +5,7 @@ I have worked at enterprise scale for three years, and have worked in a variety 
 
 I’ve lived on 3 continents and speak four languages. When I’m not working, I love traveling, cooking new foods, learning languages, and automating everything possible in my house.
 
-I'm currently working on [foreign-language-reader](https://github.com/foreign-language-reader), a webapp built to help people learn languages by automating the work needed to create a learning environment.
+I'm currently working on [fluent-labs](https://github.com/fluent-labs), a webapp built to help people learn languages by automating the work needed to create a learning environment.
 
 Want to know more? Feel free to send me an email or browse some of my projects. I'd love to collaborate on something open-source.
 
